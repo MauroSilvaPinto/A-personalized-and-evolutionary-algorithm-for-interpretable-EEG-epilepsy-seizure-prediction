@@ -1,6 +1,6 @@
 ## A personalized and evolutionary algorithm for interpretable EEG epilepsy seizure prediction
 
-This is the code used for the paper "OA personalized and evolutionary algorithm for interpretable EEG epilepsy seizure prediction". It is a patient-specific Evolutionary Algorithm  for predicting epileptic seizures with the EEG signal, from data preprocessing to phenotype study.
+This is the code used for the paper "A personalized and evolutionary algorithm for interpretable EEG epilepsy seizure prediction". It is a patient-specific Evolutionary Algorithm  for predicting epileptic seizures with the EEG signal, from data preprocessing to phenotype study.
 
 ## Code Organization Folders
 
